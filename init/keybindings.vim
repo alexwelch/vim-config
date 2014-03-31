@@ -132,3 +132,6 @@ nmap du :diffupdate<CR>
 
 " Gundo.vim
 map <leader>u :GundoToggle<CR>
+
+inoremap jj <ESC>
+inoremap jk <Esc>
