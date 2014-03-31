@@ -15,7 +15,7 @@ cabbrev Tabc tabc
 set pastetoggle=<F2>
 
 " Make Y consistent with D and C
-map Y           y$
+" map Y           y$
 
 " Search
 nmap <leader>s  :%s/
